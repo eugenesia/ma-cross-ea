@@ -13,8 +13,8 @@ Install Metatrader 4 on Windows or on Mac using PlayOnMac. This EA only works on
 
 Clone this repository in `C:\Program Files\Metatrader 4\Expert Advisors\MQL4\Expert Advisors\Experts` in Windows, or the equivalent on Mac.
 
-    cd "C:\Program Files\Metatrader 4\Expert Advisors\MQL4\Expert Advisors\Experts"
-    git clone [repo_url] ma_cross_ea
+    > cd "C:\Program Files\Metatrader 4\Expert Advisors\MQL4\Expert Advisors\Experts"
+    > git clone [repo_url] ma_cross_ea
 
 Open MetaEditor (the part of Metatrader that allows you to create and edit Expert Advisors). In the Navigator panel in the left sidebar, open `MQL4\Experts\ma_cross_ea\MA_Cross.mq4`. Click on "Compile" in the toolbar to compile it.
 
