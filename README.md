@@ -1,5 +1,4 @@
-ma-cross-ea
-===========
+# ma-cross-ea
 
 Simple moving average (MA) crossover Expert Advisor (EA) for Metatrader 4, in MQL4.
 
@@ -8,8 +7,7 @@ This EA opens a trade when the short period MA crosses the long period MA. Stop 
 This is a simple EA that produces good results on certain currency pairs, during certain time periods.
 
 
-Usage
------
+## Usage
 
 Install Metatrader 4 on Windows or on Mac using PlayOnMac. This EA only works on MetaTrader 4, NOT MetaTrader 5.
 
@@ -30,16 +28,14 @@ A configuration dialog will open where you can configure the EA's parameters suc
 * Lots: Number of lots per trade.
 
 
-Backtesting
------------
+## Backtesting
 
 Backtesting can be done using MetaTrader's "Strategy Tester" function, accessed through main menu View > Strategy Tester .
 
 The testing results for a similar EA, on the EUR/USD currency pair, can be seen here: https://youtu.be/DHFfsjFaIgU
 
 
-Disclaimer
-----------
+## Disclaimer
 
 I am not responsible for any losses you sustain while using this Expert Advisor. Trade with caution!
 
