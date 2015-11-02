@@ -1,0 +1,8 @@
+# Compiled expert advisor files.
+*.ex4
+
+# Temporary files.
+.DS_Store
+*.swp
+*~
+
